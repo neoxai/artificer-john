@@ -27,7 +27,6 @@ github_username:  neoxai
 # Build settings
 markdown: kramdown
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-feed
 
